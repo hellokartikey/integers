@@ -1,2 +1,2 @@
 # integers
-Strong integers in C++
+A simple header-only C++ library for strong and safe integers.
